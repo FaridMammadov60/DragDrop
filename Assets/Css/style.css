@@ -1,0 +1,75 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.box {
+    width: 50px;
+    font-size: 30px;
+    border: 2px solid black;
+    margin: 10px;    
+    color: white;
+    text-align: center;    
+    
+}
+
+.b1 {
+    background-color: brown; 
+    justify-content: center;  
+    text-align: center;
+}
+
+.b2 {
+    background-color: blue;
+}
+
+.b3 {
+    background-color: aqua;
+}
+
+.b4 {
+    background-color: wheat;
+}
+
+.b5 {
+    background-color: black;
+}
+
+.b6 {
+    background-color: pink;
+}
+
+.b7 {
+    background-color: yellowgreen;
+}
+
+.b8 {
+    background-color: slateblue;
+}
+
+.b9 {
+    background-color: burlywood;
+}
+
+.b10 {
+    background-color: salmon;
+}
+
+.b11 {
+    background-color: turquoise;
+}
+
+.b12 {
+    background-color: darkgreen;
+}
+
+.area {    
+    width: 100%;
+    border: 2px solid black;   
+    padding: 10px;    
+    text-align: center; 
+    justify-content: center; 
+    min-height: 30px; 
+    
+}
